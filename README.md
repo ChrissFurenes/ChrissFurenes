@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChrissFurenes
 - 👀 I’m interested in HomeAssistant, selfhosting
 - 🌱 I’m currently learning new technologi and networking
-- 📫 How to reach me Discord (Pingu #9203)
+- 📫 How to reach me Discord (Pingu9203)
 
 Ongoing projects
 * Setup RabbitMQ to use with homeassistant, and understand RabbitMQ fully
